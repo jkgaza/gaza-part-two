@@ -33,6 +33,6 @@ if (eventType === "casual" || eventType === "semi-formal" || eventType === "form
     }
 }
 
-console.log(result.concat("Since it is" + tempFarh + " and you are going to " + eventType + " you should wear" ))
+console.log(result.concat("Since it is" + tempFarh + " and you are going to " + eventType + " you should wear" + result))
 
 
